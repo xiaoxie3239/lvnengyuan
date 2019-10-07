@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+	*{padding:0;margin:0;}
+	a{text-decoration:none;}
+	li{list-style:none;}
+	body{background:#e6e5e3; font-family:"微软雅黑", "宋体"; font-size:14px;}
+	b{font-weight:400;}
+	.first{width:960px; background:#fff; overflow:hidden; margin:auto; padding: 0 22px;}
+	.one{width:960px;height:32px; margin:35px 0; float:left;}
+	.one-1{float:left;}
+	.one-2{float:right;}
+	.one-2 .input-one{height:29px;width:260px; border: solid 1px #999; float:left; margin-right:1px;}
+	.one-2 .input-two{background:url(images/xiaotu1.png) no-repeat; width:29px;height:32px; border:0px; margin-right:20px;}
+	.one-1 img{height:32px;}
+	.one-2 img{margin-left:2px; float:right;}
+	.two-one li a{color:#fff; float:left;width:119px;height:50px; background:#2e2e2e; line-height:50px; text-align:center; margin-bottom:10px;}
+	.two-one li a:hover{background:#00a56e;}
+	.two-one2,.two-one3,.two-one4,.two-one5,.two-one6,.two-one7,.two-one8{border-left:dashed 1px #999;}
+	.three{}
+	.four{width:54px;height:13px; margin:auto; margin-top:14px; margin-bottom:14px;}
+	.four ul li{float:left; margin-left:4px; background:url(images/xiaotu4.png) no-repeat;width:13px;height:13px;}
+	.four ul li:hover{background:url(images/xiaotu3.png) no-repeat;width:13px;height:13px;}
+	.five{}
+	.five-left{width:200px;height:590px; float:left;}
+	.five-left-one{height:305px; background:#f0f0f0;}
+	.five-left-two{height:285px; background:#f0f0f0;}
+		.five-left-one-x{height:3px;width:200px; background:url(images/tongyong.jpg) no-repeat left top; margin-bottom:1px;}
+		.ee{margin-top:20px;}
+		.five-left-one-y{width:200px;height:300px; float:left; background:#f0f0f0;}
+		.five-left span{background-color:#2e2e2e;height:34px; display:block; line-height:34px; padding-left:15px; color:#fff;}
+		.five-left-one-y ul li{ background:url(images/xiaotu2.png) no-repeat left center;padding-left:36px; border-bottom:solid 1px #999; width:144px; margin-left:20px; }
+		.five-left-one-y ul li a{margin:5px 0;display:block; color:#505050;}
+		.five-left-two p{ line-height:26px; color:#505050; font-size:12px;}
+		.qq{margin-top:20px;}
+		.zhongjian{float:left; width:519px;height:234px; margin:0 1px;}
+		.zhongjian-top{height:38px;width:519px;background:#2e2e2e; line-height:36px;}
+		.zhongjian-top1{width:519px;height:4px; background:url(images/tongyong.jpg) no-repeat left top;}
+		.zhongjian-top2{color:#fff;}
+		.zhongjian-top2 a{float:right; padding-right:15px;color:#fff;}
+		.zhongjian-top2 b{float:left; padding-left:20px;}
+		.zhongjian-bottom{padding:0 20px; text-indent:2em;width:479px;padding-top:20px;}
+		.youbian{width:239px;height:234px; float:left;}
+		.youbian-top{height:38px;background:#2e2e2e; line-height:36px;}
+		.youbian-top1{height:4px; background:url(images/tongyong.jpg) no-repeat left top;}
+		.youbian-top2{color:#fff;}
+		.youbian-top2 a{float:right; padding-right:5px;color:#fff;}
+		.youbian-top2 b{float:left; padding-left:8px;}
+		.youbian-bottom{padding:0 5px;}
+		.youbian-bottom ul li{padding-left:8px; background:url(images/youbian.jpg) no-repeat left center; line-height:30px;}
+		.youbian-bottom ul li a{ color:#505050;}
+		
+		.xiamian{height:342px; float:left; width:757px; margin-left:1px;}
+		.xiamian-top{height:38px;background:#2e2e2e; line-height:36px;}
+		.xiamian-top1{height:4px; background:url(images/tongyong.jpg) no-repeat left top;}
+		.xiamian-top2{color:#fff;}
+		.xiamian-top2 a{float:right; padding-right:5px;color:#fff;}
+		.xiamian-top2 b{float:left; padding-left:8px;}
+		.xiamian-bottom{width:757px;height:280px;padding-top:25px; padding-left:50px;}
+		.xiamian-bottom1{width:210px;}
+		.xiamian-bottom1 div{float:left;}
+		.xiamian-bottom1-1{width:88px; height:126px; float:left; }
+		.xiamian-bottom ul li{float:left;}
+		.xiamian-bottom ul{ width:757px;height:280px;}
+		.foot{background:#2e2e2e;width:960px;height:50px; float:left; line-height:50px;}
+		.foot div{ width:960px;height:50px; text-align:center;}
+		.foot ul li{float:left; padding-left:4px; color:#999;}
+		.foot ul li a{color:#fff;}
+
+		.foot1{height:80px;width:960px; float:left;}
+		.foot1{ line-height:80px; text-align:center;}
